@@ -1,9 +1,19 @@
-### Well hello there!
+### WELL HELLO THERE!
+### 
+THIS REPOSITORY IS MEANT TO PROVIDE AN EXAMPLE FOR *FORKING* A
+REPOSITORY ON GITHUB.
 
-This repository is meant to provide an example for *forking* a repository on GitHub.
+CREATING A *FORK* IS PRODUCING A PERSONAL COPY OF SOMEONE ELSE'S
+PROJECT. FORKS ACT AS A SORT OF BRIDGE BETWEEN THE ORIGINAL REPOSITORY
+AND YOUR PERSONAL COPY. YOU CAN SUBMIT *PULL REQUESTS* TO HELP MAKE
+OTHER PEOPLE'S PROJECTS BETTER BY OFFERING YOUR CHANGES UP TO THE
+ORIGINAL PROJECT. FORKING IS AT THE CORE OF SOCIAL CODING AT GITHUB.
 
-Creating a *fork* is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
+AFTER FORKING THIS REPOSITORY, YOU CAN MAKE SOME CHANGES TO THE PROJECT,
+AND SUBMIT [A PULL
+REQUEST](HTTPS://GITHUB.COM/OCTOCAT/SPOON-KNIFE/PULLS) AS PRACTICE.
 
-After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
-
-For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
+FOR SOME MORE INFORMATION ON HOW TO FORK A REPOSITORY, [CHECK OUT OUR
+GUIDE, "FORKING
+PROJECTS""](HTTP://GUIDES.GITHUB.COM/OVERVIEWS/FORKING/). THANKS!
+:SPARKLING_HEART:
